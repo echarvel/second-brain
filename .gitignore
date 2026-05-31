@@ -1,0 +1,13 @@
+# Obsidian workspace state (changes constantly, creates commit noise)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/hotkeys.json
+
+# OS junk
+.DS_Store
+.Trash/
+
+# Temp files
+*.tmp
+*.swp
