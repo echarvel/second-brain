@@ -1,0 +1,91 @@
+---
+title: Annual Goals
+status: structure
+source: roam-import-2026-05-31
+roam-uid: qBH0-E65a
+created: 2022-09-02
+modified: 2022-09-02
+tags: [imported, structure-doc]
+---
+
+# Annual Goals
+
+- #Intention
+  - #plan-and-execute   I will set up yearly, quarterly, monthly, and daily checklists that will allow me to live my life with intention.  I will follow through with those checklists. I will track leading indicators, tasks completed vs tasks planned, attempting to reach a 90% monthly mark, daily habit accomplishment, attempting a 90% mark as well, and lagging indicators, which might be qualitative or quantitative, aiming for a 90% achievement.
+    - **Lagging Indicators:**
+      - Percent tasks completed.
+      - Percent habits executed.
+      - Average of goals achieved
+    - **Leading Indicators:**
+      - Daily review habit execution percentage
+- #mental-clarity
+  - #Meditate   Meditation can give you a sense of calm, peace and balance that can benefit both your emotional well-being and your overall health. You can also use it to relax and cope with stress by refocusing your attention on something calming. Meditation can help you learn to stay centered and keep inner peace. I will make my mental health a priority by meditating every day. Meditate every day using the waking up guided meditation app.
+    - **Lagging indicators:**
+      - Percent habit execution
+  - #learn-humanistic-psychology   Humanistic psychology which is a perspective that emphasizes looking at the whole individual and stresses concepts such as free will, self-efficacy, and self-actualization. Rather than concentrating on dysfunction, humanistic psychology strives to help people fulfill their potential and maximize their well-being. Read three books on humanist psychology and distill the ideas within it
+    - **Leading indicators**
+      - Read and note fifteen pages a day.
+    - **Lagging indicators**
+      - Write an essay that summarizes all of my acquired understanding regarding humanistic psychology.
+- #Home
+  - #maintain-my-area-clean   I will have a clean and organized home. In my effort to maintain a clean home, this year I will start by keeping clean the areas that I have control over. Maintain a clean kitchen, restroom and office.
+    - **Leading indicators**
+      - Clean the restroom every time I shower, clean the downstairs bedroom every morning.
+      - The kitchen must be completely clean every night.
+      - Clean the office after the workday ends, every day.
+  - #learn-home-organization   Read three books on home organization and distill the ideas within it as permanent notes.
+    - **Leading indicators**
+      - Read and note fifteen pages a day.
+    - **Lagging indicators**
+      - Write at least ten permanent notes that summarize all of my acquired understanding regarding home organization.
+  - #organize-the-kitchen  Clean and organize the kitchen drawers, cabinets and pantry.  Throw away all expired food products, and vitamins, and donate or sell everything that we don't use. Organize the pantry systematically.
+    - **Lagging indicators**
+      - Percent of kitchen that is clean and organized.
+- #Possessions
+  - #learn-about-minimalism   Owning things takes space in one's mind and owning things that one doesn't need drags my spirit down.  Read three books on minimalism. Distill the ideas within them as permanent notes.
+    - **Leading indicators**
+      - Read and note fifteen pages a day.
+    - **Lagging indicators.**
+      - Write at least ten permanent notes that summarize all of my acquired knowledge regarding minimalism.
+  - #become-a-minimalist   DONE -  I will go through my possessions in my office and eliminate (sell, give or throw away) anything that I do not need.  Get rid of any book and possessions that I won't get through in my lifetime, or that I won't reread ever again. Measure as a percentatge of boxes in the garage. The closet counts as two boxes.
+    - **Lagging indicators**
+      - Number of boxes/closet halves cleaned.
+- #Programming
+  - #become-an-algorithm-expert   Solving diverse types of programming problems keeps me sharp and aids in my interview skills. I will complete the coding problems class on educative.io, working on a problem every day.
+    - **Leading indicators**
+      - Work on programming problems every day for at least fifteen minutes.
+    - **Lagging indicators**
+      - Finish the class.
+- #Marriage
+  - #[[healthy-marriage-communication]]   I will be tolerant but firm, not too soft because a marriage needs two people, not just one.  Before judging, I will see if there's something I can do instead of resorting to sarcasm or micro-aggressions, but direct, soft, and tactful communication.
+    - **Leading Indicator**
+      - Track habit.
+  - #[[seek-meaningful-marriage-moments]]   Date night once a week, got to an interesting place to have a good meal, listen to live music or at the very least, watch a movie.
+    - **Leading Indicator**
+      - Track habit.
+  - #become-an-expert-on-marriage   Read three books on marriage and distill the ideas within it as permanent notes.
+    - **Leading indicators**
+      - Read and note fifteen pages a day.
+    - **Lagging indicators**
+      - Write at least ten permanent notes that summarize all of my acquired understanding regarding a successful marriage.
+- #mind-expansion   My creative outlet is writing, so I will write one short story a month. I will also prepare two short story collections, one in Spanish and another one in English. While doing this, I will perfect my ability to author an effective short story.
+  - #[[finish-short-story-book-translation]]  Edit one story in English per week. put it through a rigorous pro writing aid analysis.  Send it to an editor.
+    - **Leading Indicator**
+      - Number of edited stories.
+    - **Lagging Indicator**
+      - Percent of stories completed.
+  - #[[finish-second-short-story-book]]   Edit one story in spanish
+    - **Leading Indicator**
+      - Number of edited stories.
+    - **Lagging Indicator**
+      - Percent of stories completed
+  - #write-twelve-short-stories   Write 500 words of a short story every day.
+    - **Leading Indicator**
+      - Number of written stories.
+    - **Lagging Indicator**
+      - Stories completed
+  - #[[improve-my-short-story-writing-skills]]   Read three books on short story writing and distill the ideas within it as permanent notes.
+    - **Leading indicators**
+      - Read and note fifteen pages a day.
+    - **Lagging indicators**
+      - Write at least ten permanent notes that summarize all my acquired understanding regarding the art of writing a short story.
