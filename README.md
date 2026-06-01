@@ -1,17 +1,23 @@
 # Second Brain
 
-Personal knowledge management vault. Zettelkasten-flavored with hierarchical structure docs on top.
+Personal knowledge management vault. Markdown files, Obsidian as editor, git for versioning.
 
 ## Layout
 
-- `inbox/fleeting/` — raw captures, awaiting review
-- `inbox/readwise/` — synced highlights from Readwise
-- `reference/` — processed reference notes with source attribution
-- `permanent/` — atomic, linked notes (the Zettelkasten layer)
-- `structure/` — mission, vision, goals, MOCs (hierarchical layer)
-- `imported/` — quarantine for migrated notes from Roam
+- `permanent-notes.md` — master MOC, start here
+- `permanent/` — atomic claim notes (your refined thinking)
+- `journal/` — daily entries (fleeting captures live here)
+- `reference/` — Readwise highlights and other source material
+- `structure/` — Vision, Goals, Aspirational docs
+- `attachments/` — images, PDFs, embedded files
+- `_imports/` — audit trail from imports (Roam, etc.)
+
+## Tags
+
+Concept tags (`#beliefs`, `#stability`, `#mental-clarity`, etc.) replace
+what used to be stub link-target pages. Use the tag pane to navigate.
 
 ## Interface
 
-Primary: Claude (via Cowork on Mac, Dispatch from phone).
-Secondary: Obsidian for graph browsing and direct editing.
+Primary: Claude (Cowork on Mac, Dispatch from phone).
+Secondary: Obsidian for graph view, direct editing, and quick search.
