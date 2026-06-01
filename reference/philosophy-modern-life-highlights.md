@@ -1,49 +1,62 @@
 ---
 title: Philosophy for Modern Life (highlights)
-status: reference
-source: roam-import-2026-05-31
-roam-uid: ThJ0l9BvH
 created: 2023-01-23
 modified: 2023-01-23
-tags: [imported, reference-note]
+roam-uid: ThJ0l9BvH
+source: roam-import-2026-05-31
 ---
 
-# Philosophy for Modern Life (highlights)
-
-- Author:: #welcome
+- Author::
 - Full Title:: Philosophy for Modern Life
 - Category:: #articles
 - URL:: https://perenniallearner.com/courses/take/Philosophy-for-Modern-Life/texts/41479656-philosophical-thoughts-for-meaningful-existence
-- Highlights first synced by #Readwise [[2023-01-23|January 23rd, 2023]]
+- Highlights first synced by #Readwise [[2023-01-23]]
   - "The happiness of your life depends upon the quality of your thoughts," Marcus Aurelius said. ([View Highlight](https://read.readwise.io/read/01gqfy7d7jgrhn08sbyy7c3cyx))
   - "To make a deep mental path, we must think over and over the kind of thoughts we wish to dominate our lives," says Henry David Thoreau. ([View Highlight](https://read.readwise.io/read/01gqfy809wtgw4npbg46c980ar))
-- New highlights added [[2023-01-23|January 23rd, 2023]] at 12:51 PM
+- New highlights added [[2023-01-23]] at 12:51 PM
   - "The greatest happiness of the greatest number is the foundation of morals and legislation," ([View Highlight](https://read.readwise.io/read/01gqg2j9be1p0gm7b4n5bkkcym))
   - "Man conquers the world by conquering himself,"  Zeno of Citium said. ([View Highlight](https://read.readwise.io/read/01gqg2pt6xv8xa5sbt36atqxp4))
-- Author:: #welcome
+- Author::
 - Full Title:: Philosophy for Modern Life
 - Category:: #articles
 - URL:: https://perenniallearner.com/courses/take/Philosophy-for-Modern-Life/texts/41479673-arthur-schopenhauer-life-lessons
-- Highlights first synced by #Readwise [[January 24th, 2023]]
-  - A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free,” Schopenhauer said.  He thought, “happiness belongs to those who are sufficient unto themselves.” “The more a man finds his sources of pleasure in himself — the happier he will be. Therefore, it is with great truth that Aristotle says, To be happy means to be self-sufficient,” writes Schopenhauer in his essay, The Wisdom of Life. ([View Highlight](https://read.readwise.io/read/01gqjdygs831vz7q6aq0mycd0f))
-- New highlights added [[January 31st, 2023]] at 9:20 AM
+- Highlights first synced by #Readwise
+  - A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free,” Schopenhauer said.
+
+He thought, “happiness belongs to those who are sufficient unto themselves.” “The more a man finds his sources of pleasure in himself — the happier he will be. Therefore, it is with great truth that Aristotle says, To be happy means to be self-sufficient,” writes Schopenhauer in his essay, The Wisdom of Life. ([View Highlight](https://read.readwise.io/read/01gqjdygs831vz7q6aq0mycd0f))
+- New highlights added at 9:20 AM
   - Schopenhauer believed that we should seek out experiences that allow us to transcend the limitations of the will and connect with something greater than ourselves. This could involve engaging with art, creative projects, nature or pursuing activities and experiences that allow us to lose ourselves in a state of flow and transcendence. ([View Highlight](https://read.readwise.io/read/01gr4c6bb3a2hre279xcxwap48))
   - “The greatest wisdom is to make the enjoyment of the present the supreme object of life; because that is the only reality, all else being merely the play of thought. ([View Highlight](https://read.readwise.io/read/01gr4c9ttc3yvk6j0npzjvsm2f))
-- Author:: #welcome
+- Author::
 - Full Title:: Philosophy for Modern Life
 - Category:: #articles
 - URL:: https://perenniallearner.com/courses/take/Philosophy-for-Modern-Life/texts/41479713-friedrich-nietzsche-on-balancing-of-pleasure-and-displeasure
-- Highlights first synced by #Readwise [[January 31st, 2023]]
-  - People who live fully take risks, love unapologetically, and live fearlessly. They are free spirits who refuse to follow the crowd or the norms of society. They walk with their heads held high and eyes wide open. They understand that life is short and that we should embrace every moment, exploring every experience and opportunity, no matter how frightening they may seem.  Comfort indicates that you have given up on the full human experience and decided to settle for what others expect of you instead of challenging yourself to achieve your highest potential. If you want to live fully, start exploring new frontiers — both inside yourself and outside in the world around you. Nietzsche thought a fulfilling and meaningful life requires full acceptance of life’s many challenges instead of avoiding them.  “What if pleasure and displeasure were so tied together that whoever wanted to have as much as possible of one must also have as much as possible of the other — that whoever wanted to learn to “jubilate up to the heavens” would also have to be prepared for “depression unto death”?” he argued.  Nietzsche observed that we are hollow without authentic living or the entire human experience. If you don’t know who you are or what you stand for, you won’t be able to recognise opportunities that arise because of who you are or what you stand for ([View Highlight](https://read.readwise.io/read/01gr4chcjm5n4khq21f1rbb2nv))
+- Highlights first synced by #Readwise
+  - People who live fully take risks, love unapologetically, and live fearlessly. They are free spirits who refuse to follow the crowd or the norms of society. They walk with their heads held high and eyes wide open. They understand that life is short and that we should embrace every moment, exploring every experience and opportunity, no matter how frightening they may seem.
+
+Comfort indicates that you have given up on the full human experience and decided to settle for what others expect of you instead of challenging yourself to achieve your highest potential. If you want to live fully, start exploring new frontiers — both inside yourself and outside in the world around you. Nietzsche thought a fulfilling and meaningful life requires full acceptance of life’s many challenges instead of avoiding them.
+
+“What if pleasure and displeasure were so tied together that whoever wanted to have as much as possible of one must also have as much as possible of the other — that whoever wanted to learn to “jubilate up to the heavens” would also have to be prepared for “depression unto death”?” he argued.
+
+Nietzsche observed that we are hollow without authentic living or the entire human experience. If you don’t know who you are or what you stand for, you won’t be able to recognise opportunities that arise because of who you are or what you stand for ([View Highlight](https://read.readwise.io/read/01gr4chcjm5n4khq21f1rbb2nv))
   - “You have the choice: either as little displeasure as possible, painlessness in brief … or as much displeasure as possible as the price for the growth of an abundance of subtle pleasures and joys that have rarely been relished yet? If you decide for the former and desire to diminish and lower the level of human pain, you also have to diminish and lower the level of their capacity for joy,” argues Friedrich Nietzsche. ([View Highlight](https://read.readwise.io/read/01gr4cpbvt2h1e9734z4gvsfwn))
   - “How little you know of human happiness, you comfortable and benevolent people, for happiness and unhappiness are sisters and evil twins that either grow up together or, as in your case, remain small together,” says Nietzsche. When you spend your entire life playing it safe, you miss essential and meaningful experiences and the most significant life lessons. ([View Highlight](https://read.readwise.io/read/01gr4cxhdrd6cy9y7t4gmpq19s))
-- New highlights added [[July 15th, 2023]] at 9:30 AM
+- New highlights added at 9:30 AM
   - “All striving comes from lack, from a dissatisfaction with one’s condition, and is thus suffering as long as it is not satisfied; but no satisfaction is lasting; instead, it is only the beginning of a new striving. ([View Highlight](https://read.readwise.io/read/01gqjdfxm1rjkjd3s7gy80p093))
-  - A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free,” Schopenhauer said.  He thought, “happiness belongs to those who are sufficient unto themselves.” “The more a man finds his sources of pleasure in himself — the happier he will be. Therefore, it is with great truth that Aristotle says, To be happy means to be self-sufficient,” writes Schopenhauer in his essay, The Wisdom of Life. ([View Highlight](https://read.readwise.io/read/01gqjdygs831vz7q6aq0mycd0f))
+  - A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free,” Schopenhauer said.
+
+He thought, “happiness belongs to those who are sufficient unto themselves.” “The more a man finds his sources of pleasure in himself — the happier he will be. Therefore, it is with great truth that Aristotle says, To be happy means to be self-sufficient,” writes Schopenhauer in his essay, The Wisdom of Life. ([View Highlight](https://read.readwise.io/read/01gqjdygs831vz7q6aq0mycd0f))
   - Schopenhauer believed that we should seek out experiences that allow us to transcend the limitations of the will and connect with something greater than ourselves. This could involve engaging with art, creative projects, nature or pursuing activities and experiences that allow us to lose ourselves in a state of flow and transcendence. ([View Highlight](https://read.readwise.io/read/01gr4c6bb3a2hre279xcxwap48))
   - “The greatest wisdom is to make the enjoyment of the present the supreme object of life; because that is the only reality, all else being merely the play of thought. ([View Highlight](https://read.readwise.io/read/01gr4c9ttc3yvk6j0npzjvsm2f))
-- New highlights added [[July 15th, 2023]] at 9:30 AM
-  - Nietzsche thought the secret to harvesting the most significant meaning from life is to embrace the full risks in life.   “The secret for harvesting from existence the greatest fruitfulness and the greatest enjoyment is: to live dangerously!” ([View Highlight](https://read.readwise.io/read/01gr4ceqeg5gqf0er9rrjkmp2a))
-  - People who live fully take risks, love unapologetically, and live fearlessly. They are free spirits who refuse to follow the crowd or the norms of society. They walk with their heads held high and eyes wide open. They understand that life is short and that we should embrace every moment, exploring every experience and opportunity, no matter how frightening they may seem.  Comfort indicates that you have given up on the full human experience and decided to settle for what others expect of you instead of challenging yourself to achieve your highest potential. If you want to live fully, start exploring new frontiers — both inside yourself and outside in the world around you. Nietzsche thought a fulfilling and meaningful life requires full acceptance of life’s many challenges instead of avoiding them.  “What if pleasure and displeasure were so tied together that whoever wanted to have as much as possible of one must also have as much as possible of the other — that whoever wanted to learn to “jubilate up to the heavens” would also have to be prepared for “depression unto death”?” he argued.  Nietzsche observed that we are hollow without authentic living or the entire human experience. If you don’t know who you are or what you stand for, you won’t be able to recognise opportunities that arise because of who you are or what you stand for ([View Highlight](https://read.readwise.io/read/01gr4chcjm5n4khq21f1rbb2nv))
+- New highlights added at 9:30 AM
+  - Nietzsche thought the secret to harvesting the most significant meaning from life is to embrace the full risks in life. 
+“The secret for harvesting from existence the greatest fruitfulness and the greatest enjoyment is: to live dangerously!” ([View Highlight](https://read.readwise.io/read/01gr4ceqeg5gqf0er9rrjkmp2a))
+  - People who live fully take risks, love unapologetically, and live fearlessly. They are free spirits who refuse to follow the crowd or the norms of society. They walk with their heads held high and eyes wide open. They understand that life is short and that we should embrace every moment, exploring every experience and opportunity, no matter how frightening they may seem.
+
+Comfort indicates that you have given up on the full human experience and decided to settle for what others expect of you instead of challenging yourself to achieve your highest potential. If you want to live fully, start exploring new frontiers — both inside yourself and outside in the world around you. Nietzsche thought a fulfilling and meaningful life requires full acceptance of life’s many challenges instead of avoiding them.
+
+“What if pleasure and displeasure were so tied together that whoever wanted to have as much as possible of one must also have as much as possible of the other — that whoever wanted to learn to “jubilate up to the heavens” would also have to be prepared for “depression unto death”?” he argued.
+
+Nietzsche observed that we are hollow without authentic living or the entire human experience. If you don’t know who you are or what you stand for, you won’t be able to recognise opportunities that arise because of who you are or what you stand for ([View Highlight](https://read.readwise.io/read/01gr4chcjm5n4khq21f1rbb2nv))
   - “You have the choice: either as little displeasure as possible, painlessness in brief … or as much displeasure as possible as the price for the growth of an abundance of subtle pleasures and joys that have rarely been relished yet? If you decide for the former and desire to diminish and lower the level of human pain, you also have to diminish and lower the level of their capacity for joy,” argues Friedrich Nietzsche. ([View Highlight](https://read.readwise.io/read/01gr4cpbvt2h1e9734z4gvsfwn))
   - “How little you know of human happiness, you comfortable and benevolent people, for happiness and unhappiness are sisters and evil twins that either grow up together or, as in your case, remain small together,” says Nietzsche. When you spend your entire life playing it safe, you miss essential and meaningful experiences and the most significant life lessons. ([View Highlight](https://read.readwise.io/read/01gr4cxhdrd6cy9y7t4gmpq19s))

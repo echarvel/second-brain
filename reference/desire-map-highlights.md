@@ -1,20 +1,16 @@
 ---
 title: The Desire Map (highlights)
-status: reference
-source: roam-import-2026-05-31
-roam-uid: nL5kNrIBJ
 created: 2022-08-17
 modified: 2022-08-17
-tags: [imported, reference-note]
+roam-uid: nL5kNrIBJ
+source: roam-import-2026-05-31
 ---
 
-# The Desire Map (highlights)
-
-- Author:: #danielle-laporte
+- Author::
 - Full Title:: The Desire Map
 - Category:: #books
 - ![](https://images-na.ssl-images-amazon.com/images/I/41TWX1H3H%2BL._SL200_.jpg)
-- Highlights first synced by #Readwise [[August 17th, 2022]]
+- Highlights first synced by #Readwise
   - Knowing how you actually want to feel is the most potent form of clarity that you can have. Generating those feelings is the most powerfully creative thing you can do with your life. ([Location 151](https://readwise.io/to_kindle?action=open&asin=B00H7MKSRY&location=151))
   - You’re not chasing the goal itself—you’re chasing the feelings that you hope attaining those goals will give you. ([Location 198](https://readwise.io/to_kindle?action=open&asin=B00H7MKSRY&location=198))
   - Desire is the engine of creation. It is the apex of our expanding consciousness. It infuses us with the courage to do the most noble acts, to sacrifice, and pursue, and wrest ourselves away from darkness to move into the light. It can drive us to madness, despair, and disabling doubt. Desire steers our pleasure pursuits of food, sex, joy, self-expression, and connection. Through our wanting, we come to know more of ourselves, each other, and life. Desire is at the root of our divine impulse to evolve. Desire leads the way home. ([Location 242](https://readwise.io/to_kindle?action=open&asin=B00H7MKSRY&location=242))

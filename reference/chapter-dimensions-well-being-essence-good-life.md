@@ -1,20 +1,16 @@
 ---
 title: "Chapter 1: Dimensions of Well-Being: The Essence of the Good Life | Become Who You Are V1.2.0 (highlights)"
-status: reference
-source: roam-import-2026-05-31
-roam-uid: s3q4ZIf8r
 created: 2022-08-20
 modified: 2022-08-20
-tags: [imported, reference-note]
+roam-uid: s3q4ZIf8r
+source: roam-import-2026-05-31
 ---
 
-# Chapter 1: Dimensions of Well-Being: The Essence of the Good Life | Become Who You Are V1.2.0 (highlights)
-
-- Author:: #members-mindform-io
+- Author::
 - Full Title:: Chapter 1: Dimensions of Well-Being: The Essence of the Good Life | Become Who You Are V1.2.0
 - Category:: #articles
 - URL:: https://members.mindform.io/posts/member-monday-felipe-echandi
-- Highlights first synced by #Readwise [[2022-08-20|August 20th, 2022]]
+- Highlights first synced by #Readwise [[2022-08-20]]
   - Psychologist Paul Bloom argues that there is a “sweet spot” of pleasure and suffering that we crave and that meaningful tasks must involve suffering. He says “If you ask people ‘what’s a meaningful experience?’ they answer coherently, and they seem to be talking about projects that are difficult, that take a lot of time, and that involve struggle and doubt and uncertainty. They involve suffering of different sorts. And if it didn’t involve suffering, it wouldn’t be meaningful.
   - Psychologist Paul Bloom argues that there is a “sweet spot” of pleasure and suffering that we crave and that meaningful tasks must involve suffering. He says “If you ask people ‘what’s a meaningful experience?’ they answer coherently, and they seem to be talking about projects that are difficult, that take a lot of time, and that involve struggle and doubt and uncertainty. They involve suffering of different sorts. And if it didn’t involve suffering, it wouldn’t be meaningful.”
   - Perhaps an endeavor simply has to make sense in the context of your own personal narrative. Trekking across Vietnam is a valuable activity if it connects to your sense of identity in some way. Volunteering for a charity feels rewarding if it relates to who you are and what you care about. A job can be either rewarding or not, depending on the personal meaning you attribute to it.

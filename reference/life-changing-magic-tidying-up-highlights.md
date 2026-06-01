@@ -1,52 +1,48 @@
 ---
 title: The Life-Changing Magic of Tidying Up (highlights)
-status: reference
-source: roam-import-2026-05-31
-roam-uid: 9oAEEYkiL
 created: 2022-10-02
 modified: 2022-10-02
-tags: [imported, reference-note]
+roam-uid: 9oAEEYkiL
+source: roam-import-2026-05-31
 ---
 
-# The Life-Changing Magic of Tidying Up (highlights)
-
-- Author:: #marie-kondo
+- Author::
 - Full Title:: The Life-Changing Magic of Tidying Up
 - Category:: #books
 - ![](https://images-na.ssl-images-amazon.com/images/I/41F9o66qNTL._SL200_.jpg)
-- Highlights first synced by #Readwise [[October 2nd, 2022]]
+- Highlights first synced by #Readwise
   - In Japan, people believe that things like cleaning your room and keeping your bathroom spick-and-span bring good luck, but if your house is cluttered, the effect of polishing the toilet bowl is going to be limited. The same is true for the practice of feng shui. It is only when you put your house in order that your furniture and decorations come to life. ([Location 186](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=186))
   - Let’s imagine a cluttered room. It does not get messy all by itself. You, the person who lives in it, makes the mess. There is a saying that “a messy room equals a messy mind.” I look at it this way. When a room becomes cluttered, the cause is more than just physical. Visible mess helps distract us from the true source of the disorder. The act of cluttering is really an instinctive reflex that draws our attention away from the heart of an issue. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=316))
-  - Storage experts are hoarders ([Location 325](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=325)) ^ZFbyEcNBX
-  - Putting things away creates the illusion that the clutter problem has been solved. But sooner or later, all the storage units are full, the room once again overflows with things, and some new and “easy” storage method becomes necessary, creating a negative spiral. This is why tidying must start with discarding. ([Location 342](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=342)) ^dQfrDTE1t
+  - Storage experts are hoarders ([Location 325](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=325))
+  - Putting things away creates the illusion that the clutter problem has been solved. But sooner or later, all the storage units are full, the room once again overflows with things, and some new and “easy” storage method becomes necessary, creating a negative spiral. This is why tidying must start with discarding. ([Location 342](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=342))
   - One reason so many of us never succeed at tidying is because we have too much stuff. This excess is caused by our ignorance of how much we actually own. When we disperse storage of a particular item throughout the house and tidy one place at a time, we can never grasp the overall volume and therefore can never finish. To escape this negative spiral, tidy by category, not by place. ([Location 363](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=363))
   - Effective tidying involves only two essential actions: discarding and deciding where to store things. Of the two, discarding must come first. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=392))
-  - there are only two tasks involved—discarding and deciding where to keep things. Just two, but discarding must come first. Be sure to completely finish the first task before starting the next. Do not even think of putting your things away until you have finished the process of discarding. ([Location 447](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=447)) ^Gd8TUPrWs
+  - there are only two tasks involved—discarding and deciding where to keep things. Just two, but discarding must come first. Be sure to completely finish the first task before starting the next. Do not even think of putting your things away until you have finished the process of discarding. ([Location 447](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=447))
   - Think in concrete terms so that you can vividly picture what it would be like to live in a clutter-free space. ([Location 460](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=460))
-  - we should be choosing what we want to keep, not what we want to get rid of. ([Location 514](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=514)) ^Cnhzs7HRY
+  - we should be choosing what we want to keep, not what we want to get rid of. ([Location 514](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=514))
   - take each item in one’s hand and ask: “Does this spark joy?” If it does, keep it. If not, dispose of it. ([Location 517](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=517))
-  - Keep only those things that speak to your heart. Then take the plunge and discard all the rest. By doing this, you can reset your life and embark on a new lifestyle. ([Location 528](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=528)) ^qLT5GT1X-
+  - Keep only those things that speak to your heart. Then take the plunge and discard all the rest. By doing this, you can reset your life and embark on a new lifestyle. ([Location 528](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=528))
   - always think in terms of category, not place. ([Location 540](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=540))
-  - Gathering every item in one place is essential to this process because it gives you an accurate grasp of how much you have. ([Location 545](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=545)) ^afeOjBoaZ
+  - Gathering every item in one place is essential to this process because it gives you an accurate grasp of how much you have. ([Location 545](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=545))
   - Things that bring back memories, such as photos, are not the place for beginners to start. Not only is the sheer volume of items in this category usually greater than that of any other, but it is also far harder to make a decision about whether or not to keep them. ([Location 559](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=559))
   - The urge to point out someone else’s failure to tidy is usually a sign that you are neglecting to take care of your own space. ([Location 650](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=650))
-- New highlights added [[October 2nd, 2022]] at 4:32 PM
+- New highlights added at 4:32 PM
   - People have trouble discarding things that they could still use (functional value), that contain helpful information (informational value), and that have sentimental ties (emotional value). When these things are hard to obtain or replace (rarity), they become even harder to part with. ([Location 563](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=563))
-  - The best sequence is this: clothes first, then books, papers, komono (miscellany), and lastly, mementos. ([Location 570](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=570)) ^-oBn5ON8A
-- New highlights added [[October 3rd, 2022]] at 7:26 AM
+  - The best sequence is this: clothes first, then books, papers, komono (miscellany), and lastly, mementos. ([Location 570](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=570))
+- New highlights added at 7:26 AM
   - If you use the right method and concentrate your efforts on eliminating clutter thoroughly and completely within a short span of time, you’ll see instant results that will empower you to keep your space in order ever after. ([Location 275](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=275))
   - To quietly work away at disposing of your own excess is actually the best way of dealing with a family that doesn’t tidy. ([Location 643](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=643))
-- New highlights added [[October 4th, 2022]] at 1:32 PM
+- New highlights added at 1:32 PM
   - If you missed your chance to read a particular book, even if it was recommended to you or is one you have been intending to read for ages, this is your chance to let it go. You may have wanted to read it when you bought it, but if you haven’t read it by now, the book’s purpose was to teach you that you didn’t need it. There’s no need to finish reading books that you only got halfway through. Their purpose was to be read halfway. So get rid of all those unread books. It will be far better for you to read the book that really grabs you right now than one that you left to gather dust for years. ([Location 1050](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=1050))
-- New highlights added [[October 5th, 2022]] at 9:32 AM
+- New highlights added at 9:32 AM
   - When you attend a seminar, do so with the resolve to part with every handout distributed. If you regret recycling it, take the same seminar again, and this time apply the learning. It’s paradoxical, but I believe that precisely because we hang on to such materials, we fail to put what we learn into practice. ([Location 1151](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=1151))
-- New highlights added [[2022-10-22|October 22nd, 2022]] at 11:33 AM
+- New highlights added [[2022-10-22]] at 11:33 AM
   - That’s right. By handling each sentimental item and deciding what to discard, you process your past. If you just stow these things away in a drawer or cardboard box, before you realize it, your past will become a weight that holds you back and keeps you from living in the here and now. ([Location 1323](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=1323))
-- Author:: #marie-kondo
+- Author::
 - Full Title:: The Life-Changing Magic of Tidying Up
 - Category:: #books
 - ![](https://images-na.ssl-images-amazon.com/images/I/41F9o66qNTL._SL200_.jpg)
-- Highlights first synced by #Readwise [[2022-10-22|October 22nd, 2022]]
+- Highlights first synced by #Readwise [[2022-10-22]]
   - In Japan, people believe that things like cleaning your room and keeping your bathroom spick-and-span bring good luck, but if your house is cluttered, the effect of polishing the toilet bowl is going to be limited. The same is true for the practice of feng shui. It is only when you put your house in order that your furniture and decorations come to life. ([Location 186](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=186))
   - If you use the right method and concentrate your efforts on eliminating clutter thoroughly and completely within a short span of time, you’ll see instant results that will empower you to keep your space in order ever after. ([Location 275](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=275))
   - Let’s imagine a cluttered room. It does not get messy all by itself. You, the person who lives in it, makes the mess. There is a saying that “a messy room equals a messy mind.” I look at it this way. When a room becomes cluttered, the cause is more than just physical. Visible mess helps distract us from the true source of the disorder. The act of cluttering is really an instinctive reflex that draws our attention away from the heart of an issue. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=316))
@@ -89,7 +85,7 @@ tags: [imported, reference-note]
   - when we really delve into the reasons for why we can’t let something go, there are only two: an attachment to the past or a fear for the future. ([Location 1964](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=1964))
   - Quests to faraway places or shopping sprees are no longer necessary. All you have to do is eliminate what you don’t need by confronting each of your possessions properly. ([Location 1982](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=1982))
   - The process of facing and selecting our possessions can be quite painful. It forces us to confront our imperfections and inadequacies and the foolish choices we made in the past. ([Location 1984](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=1984))
-  - If we acknowledge our attachment to the past and our fears for the future by honestly looking at our possessions, we will be able to see what is really important to us. ([Location 1993](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=1993)) ^v-zUT-3Vo
+  - If we acknowledge our attachment to the past and our fears for the future by honestly looking at our possessions, we will be able to see what is really important to us. ([Location 1993](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=1993))
   - I believe that tidying is a celebration, a special send-off for those things that will be departing from the house, and therefore I dress accordingly. ([Location 2047](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=2047))
   - We amass material things for the same reason that we eat—to satisfy a craving. Buying on impulse and eating and drinking to excess are attempts to alleviate stress. From observing my clients, I have noticed that when they part with excess clothing, their tummies tend to slim down, when they discard books and documents, their minds tend to become clearer, when they reduce the number of cosmetics and tidy up the area around the sink and bath, their complexion tends to become clear and their skin smooth. Although I have no scientific basis for this theory, it is very interesting to see that the part of the body responding corresponds closely to the area that is put in order. ([Location 2115](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=2115))
   - The philosophy of feng shui is really about living in accordance with the rules of nature. The purpose of my approach to tidying is exactly the same. The true purpose of tidying is, I believe, to live in the most natural state possible. Don’t you think it is unnatural for us to possess things that don’t bring us joy or things that we don’t really need? I believe that owning only what we love and what we need is the most natural condition. ([Location 2134](https://readwise.io/to_kindle?action=open&asin=B00KK0PICK&location=2134))

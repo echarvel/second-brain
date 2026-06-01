@@ -1,24 +1,20 @@
 ---
 title: The Hero With a Thousand Faces (highlights)
-status: reference
-source: roam-import-2026-05-31
-roam-uid: Uu1W4thlz
 created: 2024-02-28
 modified: 2024-02-28
-tags: [imported, reference-note]
+roam-uid: Uu1W4thlz
+source: roam-import-2026-05-31
 ---
 
-# The Hero With a Thousand Faces (highlights)
-
-- Author:: #joseph-campbell
+- Author::
 - Full Title:: The Hero With a Thousand Faces
 - Category:: #books
 - ![](https://m.media-amazon.com/images/I/81g2t-G6FJL._SY160.jpg)
-- Highlights first synced by #Readwise [[February 28th, 2024]]
+- Highlights first synced by #Readwise
   - It has always been the prime function of mythology and rite to supply the symbols that carry the human spirit forward, in counteraction to those constant human fantasies that tend to tie it back. In fact, it may well be that the very high incidence of neuroticism among ourselves follows from the decline among us of such effective spiritual aid. We remain fixated to the unexercised images of our infancy, and hence disinclined to the necessary passages of our adulthood. In the United States there is even a pathos of inverted emphasis: the goal is not to grow old, but to remain young; not to mature away from Mother, but to cleave to her. And so, while husbands are worshiping at their boyhood shrines, being the lawyers, merchants, or masterminds their parents wanted them to be, their wives, even after fourteen years of marriage and two fine children produced and raised, are still on the search for love — which can come to them only from the centaurs, sileni, satyrs, and other concupiscent incubi of the rout of Pan, either as in the second of the above-recited dreams, or as in our popular, vanilla-frosted temples of the venereal goddess, under the make-up of the latest heroes of the screen. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B08MWW2VDL&location=581))
   - C.G. Jung, on the other hand, has emphasized the crises of the second portion — when, in order to advance, the shining sphere must submit to descend and disappear, at last, into the night-womb of the grave. The normal symbols of our desires and fears become converted, in this afternoon of the biography, into their opposites; for it is then no longer life but death that is the challenge. What is difficult to leave, then, is not the womb but the phallus — unless, indeed, the life-weariness has already seized the heart, when it will be death that calls with the promise of bliss that formerly was the lure of love. Full circle, from the tomb of the womb to the womb of the tomb, we come: an ambiguous, enigmatical incursion into a world of solid matter that is soon to melt from us, like the substance of a dream. And, looking back at what had promised to be our own unique, unpredictable, and dangerous adventure, all we find in the end is such a series of standard metamorphoses as men and women have undergone in every quarter of the world, in all recorded centuries, and under every odd disguise of civilization. ([Location 597](https://readwise.io/to_kindle?action=open&asin=B08MWW2VDL&location=597))
   - The figure of the tyrant-monster is known to the mythologies, folk traditions, legends, and even nightmares of the world; and his characteristics are everywhere essentially the same. He is the hoarder of the general benefit. He is the monster avid for the greedy rights of “my and mine.” The havoc wrought by him is described in mythology and fairy tale as being universal throughout his domain. This may be no more than his household, his own tortured psyche, or the lives that he blights with the touch of his friendship and assistance; or it may amount to the extent of his civilization. The inflated ego of the tyrant is a curse to himself and his world — no matter how his affairs may seem to prosper. Self-terrorized, fear-haunted, alert at every hand to meet and battle back the anticipated aggressions of his environment, which are primarily the reflections of the uncontrollable impulses to acquisition within himself, the giant of self-achieved independence is the world’s messenger of disaster, even though, in his mind, he may entertain himself with humane intentions. Wherever he sets his hand there is a cry (if not from the housetops, then — more miserably — within every heart): a cry for the redeeming hero, the carrier of the shining blade, whose blow, whose touch, whose existence, will liberate the land. ([Location 645](https://readwise.io/to_kindle?action=open&asin=B08MWW2VDL&location=645))
-- New highlights added [[2024-07-21|July 21st, 2024]] at 8:54 PM
+- New highlights added [[2024-07-21]] at 8:54 PM
   - Only birth can conquer death — the birth, not of the old thing again, but of something new. Within the soul, within the body social, there must be — if we are to experience long survival — a continuous “recurrence of birth” (palingenesia) to nullify the unremitting recurrences of death. ([Location 669](https://readwise.io/to_kindle?action=open&asin=B08MWW2VDL&location=669))
   - But this realm, as we know from psychoanalysis, is precisely the infantile unconscious. It is the realm that we enter in sleep. We carry it within ourselves forever. All the ogres and secret helpers of our nursery are there, all the magic of childhood. And more important, all the life-potentialities that we never managed to bring to adult realization, those other portions of ourself, are there; for such golden seeds do not die. ([Location 680](https://readwise.io/to_kindle?action=open&asin=B08MWW2VDL&location=680))
   - Dream is the personalized myth, myth the depersonalized dream; both myth and dream are symbolic in the same general way of the dynamics of the psyche. But in the dream the forms are quirked by the peculiar troubles of the dreamer, whereas in myth the problems and solutions shown are directly valid for all mankind. ([Location 694](https://readwise.io/to_kindle?action=open&asin=B08MWW2VDL&location=694))

@@ -1,22 +1,18 @@
 ---
 title: Goals (highlights)
-status: reference
-source: roam-import-2026-05-31
-roam-uid: t9fAxHoH7
 created: 2022-08-17
 modified: 2022-08-17
-tags: [imported, reference-note]
+roam-uid: t9fAxHoH7
+source: roam-import-2026-05-31
 ---
 
-# Goals (highlights)
-
-- Author:: #zig-ziglar
+- Author::
 - Full Title:: Goals
 - Category:: #books
 - ![](https://images-na.ssl-images-amazon.com/images/I/417TRFRwMvL._SL200_.jpg)
-- Highlights first synced by #Readwise [[August 17th, 2022]]
-  - You cannot make it in life as a “wandering generality.” You must become a “meaningful specific.” ([Location 223](https://readwise.io/to_kindle?action=open&asin=B07PHGWMH8&location=223)) ^J7qyYaye8
-    - **Tags**: #favorite
+- Highlights first synced by #Readwise
+  - You cannot make it in life as a “wandering generality.” You must become a “meaningful specific.” ([Location 223](https://readwise.io/to_kindle?action=open&asin=B07PHGWMH8&location=223))
+    - **Tags**:
   - Many people complain about the lack of time. But 99 percent of the problem is not lack of time but lack of direction. Direction creates time, and motivation creates energy. ([Location 226](https://readwise.io/to_kindle?action=open&asin=B07PHGWMH8&location=226))
   - A lot of people say, “I just don’t feel motivated to do anything.” Well, they have it backward. When you go ahead and do something, then you will feel motivated to do it. Motivation literally follows the act and motivation creates energy. Start today, right now—write down your goals. ([Location 243](https://readwise.io/to_kindle?action=open&asin=B07PHGWMH8&location=243))
   - There are many people who never really have a direction in life. You can see them in every workplace. They come to work and they’re almost hyper all day long. They’re here and there and everywhere. I mean they’re busy, busy, busy. But at the end of the day, they still have a full desk of papers and no evidence that they’ve accomplished anything—because they really don’t have any direction. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B07PHGWMH8&location=316))
@@ -56,7 +52,7 @@ tags: [imported, reference-note]
   - A barrier breaker is someone driven internally—not influenced by the outward negatives of life. That person understands that you can have everything in life you want if you just help enough other people get what they want. Barrier breakers don’t tell other people where to get off; they show them how to get on. They don’t try to see ([Location 950](https://readwise.io/to_kindle?action=open&asin=B07PHGWMH8&location=950))
   - When you heat water to 211 degrees, you have really hot water. You can take that hot water and make a cup of coffee or tea or you can shave with it. But if you add one more degree, that hot water converts to steam. Now you can take that steam and propel a locomotive literally across the country or you can take a steamship and propel it all the way around the world. It’s the additional degree that makes the difference. ([Location 1017](https://readwise.io/to_kindle?action=open&asin=B07PHGWMH8&location=1017))
   - “The way a man wins shows much of his character—and the way he loses shows all of it.” ([Location 1065](https://readwise.io/to_kindle?action=open&asin=B07PHGWMH8&location=1065))
-  - I believe that the bumblebee is a classic example of what intelligent ignorance is really all about. If you’ve done any reading and studying about aerodynamics, you know that the bumblebee cannot fly—its body is too heavy and its wings are too light. It is written that it is impossible for it to fly. But the bumblebee doesn’t read; the bumblebee flies. ([Location 1115](https://readwise.io/to_kindle?action=open&asin=B07PHGWMH8&location=1115)) ^u5vEeN2EA
+  - I believe that the bumblebee is a classic example of what intelligent ignorance is really all about. If you’ve done any reading and studying about aerodynamics, you know that the bumblebee cannot fly—its body is too heavy and its wings are too light. It is written that it is impossible for it to fly. But the bumblebee doesn’t read; the bumblebee flies. ([Location 1115](https://readwise.io/to_kindle?action=open&asin=B07PHGWMH8&location=1115))
   - If we take a good look at our circumstances, many times we can determine that even the worst of events can be the best thing that has ever happened to us after all. ([Location 1247](https://readwise.io/to_kindle?action=open&asin=B07PHGWMH8&location=1247))
   - “Character is the ability to carry out a good resolution long after the excitement of the moment has passed.” ([Location 1340](https://readwise.io/to_kindle?action=open&asin=B07PHGWMH8&location=1340))
   - When people learn that if they want to occupy their places in the sun, they have to expect some blisters, then much will have been accomplished. Work is the price we pay to travel the highway of success. We can best guard against losing our shirts by keeping our sleeves rolled up. Many people believe success is dependent upon the glands; and, of course, they’re right if they’re talking about sweat glands. ([Location 1450](https://readwise.io/to_kindle?action=open&asin=B07PHGWMH8&location=1450))

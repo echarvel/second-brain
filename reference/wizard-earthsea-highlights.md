@@ -1,20 +1,16 @@
 ---
 title: A Wizard of Earthsea (highlights)
-status: reference
-source: roam-import-2026-05-31
-roam-uid: Td5wjVoyu
 created: 2024-01-19
 modified: 2024-01-19
-tags: [imported, reference-note]
+roam-uid: Td5wjVoyu
+source: roam-import-2026-05-31
 ---
 
-# A Wizard of Earthsea (highlights)
-
-- Author:: #ursula-k-le-guin
+- Author::
 - Full Title:: A Wizard of Earthsea
 - Category:: #books
 - ![](https://images-na.ssl-images-amazon.com/images/I/51yBOHJFBqL._SL200_.jpg)
-- Highlights first synced by #Readwise [[January 18th, 2024]]
+- Highlights first synced by #Readwise
   - And the truth is that as a man’s real power grows and his knowledge widens, ever the way he can follow grows narrower: until at last he chooses nothing, but does only and wholly what he must do . . .” ([Location 958](https://readwise.io/to_kindle?action=open&asin=B008T9L6AM&location=958))
   - As a boy, Ogion like all boys had thought it would be a very pleasant game to take by art-magic whatever shape one liked, man or beast, tree or cloud, and so to play at a thousand beings. But as a wizard he had learned the price of the game, which is the peril of losing one’s self, playing away the truth. The longer a man stays in a form not his own, the greater this peril. ([Location 1646](https://readwise.io/to_kindle?action=open&asin=B008T9L6AM&location=1646))
   - A man would know the end he goes to, but he cannot know it if he does not turn, and return to his beginning, and hold that beginning in his being. If he would not be a stick whirled and whelmed in the stream, he must be the stream itself, all of it, from its spring to its sinking in the sea. ([Location 1689](https://readwise.io/to_kindle?action=open&asin=B008T9L6AM&location=1689))

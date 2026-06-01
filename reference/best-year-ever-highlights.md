@@ -1,20 +1,16 @@
 ---
 title: Your Best Year Ever (highlights)
-status: reference
-source: roam-import-2026-05-31
-roam-uid: VwngDGFBf
 created: 2022-08-17
 modified: 2022-08-17
-tags: [imported, reference-note]
+roam-uid: VwngDGFBf
+source: roam-import-2026-05-31
 ---
 
-# Your Best Year Ever (highlights)
-
-- Author:: #michael-hyatt
+- Author::
 - Full Title:: Your Best Year Ever
 - Category:: #books
 - ![](https://images-na.ssl-images-amazon.com/images/I/51dB0rpsXoL._SL200_.jpg)
-- Highlights first synced by #Readwise [[August 17th, 2022]]
+- Highlights first synced by #Readwise
   - our lives consist of ten interrelated domains: Spiritual: Your connection to God Intellectual: Your engagement with significant ideas Emotional: Your psychological health Physical: Your bodily health Marital: Your spouse or significant other Parental: Your children if you have any Social: Your friends and associates Vocational: Your profession Avocational: Your hobbies and pastime Financial: Your personal or family finances ([Location 301](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=301))
     - **Note**: this one is missing the Character dimension from Lifebook, but everything else is the same.
   - Life consists of ten interrelated domains. Understanding the relative health of each can help you make progress across them all. The gradations represent relative health in each of the ten life domains. ([Location 325](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=325))
@@ -22,15 +18,15 @@ tags: [imported, reference-note]
   - If our habits of thinking are beneficial, we tend to experience positive results, such as happiness, personal satisfaction, even material success. If our habits of thinking are ([Location 361](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=361))
   - counterproductive, however, we often experience the opposite: unhappiness, dissatisfaction, and the nagging feeling that the deck is somehow stacked against us. ([Location 362](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=362))
   - “Our real world is in many ways an expected world. What we see, hear, taste, feel, and experience is produced from the top down as much as it is from the bottom up. Our minds organize chaos. We fill in blanks with well-learned forms, patterns, and assumptions. Our predictions for the near and distant future bend reality.” ([Location 387](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=387))
-    - **Tags**: #favorite
+    - **Tags**:
   - One of the biggest reasons we don’t succeed with our goals is we doubt we can. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=402))
   - The first key difference between an unmet goal and personal success is the belief that it can be achieved. ([Location 458](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=458))
   - there are two ways to look at life. One leads directly to this failure of imagination. But the other can revive and amplify our sense of possibility. ([Location 464](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=464))
   - Scarcity Thinkers Abundance Thinkers 1. Are entitled and fearful 2. Believe there will never be enough 3. Are stingy with their knowledge, contacts, and compassion 4. Assume they are the way they are 5. Default to suspicion and aloofness 6. Resent competition, believing it makes the pie smaller and them weaker 7. Are pessimistic about the future, believing that tough times are ahead 8. See challenges as obstacles 9. Think small and avoid risk 1. Are thankful and confident 2. Believe there is always more where that came from 3. Are happy to share their knowledge, contacts, and compassion with others 4. Assume they can learn, grow, and develop 5. Default to trust and openness 6. Welcome competition, believing it makes the pie bigger and them better 7. Are optimistic about the future, believing the best is yet to come 8. See challenges as opportunities 9. Think big and embrace risk ([Location 497](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=497))
   - Watch out: limiting beliefs distort our view of the world, others, even ourselves. ([Location 516](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=516))
   - How do you know if you’re falling into the trap of limiting beliefs? In his book Making Habits, Breaking Habits, Jeremy Dean mentions three dead giveaways: Black-and-white thinking. That’s when we assume we’ve failed if we don’t achieve perfection. Reality is usually a sliding scale, not a toggle switch. Personalizing. That’s when we blame ourselves for random negative occurrences. Catastrophizing. That’s when we assume the worst even with little evidence.2 To that list we can add a fourth: Universalizing. That’s when we take a bad experience and assume it’s true across the board. ([Location 522](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=522))
-  - The news media, for instance, has a strong negativity bias. As J. R. R. Tolkien quipped, it’s mostly murders and football scores.3 “Studies have shown that an overabundance of news can make you depressed, anxious, and, for the most part, doesn’t usually provide you with the ability to actually change or influence anything being reported,” says Michael Grothaus—and he’s a professional journalist.4 Tune in, and it’s easy to believe the world is getting worse and worse—more crime, more poverty, more violence than ever. It’s like a long litany of worry and fear, interrupted by commercials about scary medical conditions. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=534)) ^DWd1kXk8N
-  - There are a million thoughts running through our heads, but we alone get to choose what we’re going to believe. And the best way to overcome limiting beliefs is to replace them with liberating truths. It’s possible to upgrade our beliefs. ([Location 582](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=582)) ^dPg_dsMNd
+  - The news media, for instance, has a strong negativity bias. As J. R. R. Tolkien quipped, it’s mostly murders and football scores.3 “Studies have shown that an overabundance of news can make you depressed, anxious, and, for the most part, doesn’t usually provide you with the ability to actually change or influence anything being reported,” says Michael Grothaus—and he’s a professional journalist.4 Tune in, and it’s easy to believe the world is getting worse and worse—more crime, more poverty, more violence than ever. It’s like a long litany of worry and fear, interrupted by commercials about scary medical conditions. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=534))
+  - There are a million thoughts running through our heads, but we alone get to choose what we’re going to believe. And the best way to overcome limiting beliefs is to replace them with liberating truths. It’s possible to upgrade our beliefs. ([Location 582](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=582))
   - “common sense” is simply another way of saying “widely held misunderstanding.” ([Location 609](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=609))
   - four properties that help us achieve our goals. The first is intention. We can imagine a better reality than the one we’re currently experiencing. And we can work with others and within our circumstances to achieve it. Second, forethought. By visualizing the future, we can govern our behavior in the present and give purpose and meaning to our actions. Third, action. We have the ability to act on our plans, to stay motivated, and to respond in the moment to remain on course. Finally, self-reflection. We not only act, we know we act. That means we can evaluate how we’re doing, make adjustments, and even revise our plans.4 ([Location 665](https://readwise.io/to_kindle?action=open&asin=B0741CYBHK&location=665))
     - **Note**: What about purpose? Purpose is the driving force behind our goals.

@@ -1,19 +1,15 @@
 ---
 title: The Shadow of the Gods (highlights)
-status: reference
-source: roam-import-2026-05-31
-roam-uid: y86ezWRZ7
 created: 2024-01-19
 modified: 2024-01-19
-tags: [imported, reference-note]
+roam-uid: y86ezWRZ7
+source: roam-import-2026-05-31
 ---
 
-# The Shadow of the Gods (highlights)
-
-- Author:: #john-gwynne
+- Author::
 - Full Title:: The Shadow of the Gods
 - Category:: #books
 - ![](https://m.media-amazon.com/images/I/81PL5wHIiDL._SY160.jpg)
-- Highlights first synced by #Readwise [[January 18th, 2024]]
+- Highlights first synced by #Readwise
   - “I hate Guðvarr and Jarl Sigrún,” Breca said abruptly, his eyes fierce as he blew on his hot food. Orka was still watching the tennúr eat, its two rows of teeth slicing and grinding at an alarming rate. The bowl was empty in heartbeats. Vesli smacked her lips and licked her chin, then looked up at Orka. “Tasty,” Vesli said. Orka just scowled, imagining her crunching through human teeth. “Hate?” Thorkel said, raising an eyebrow, onions stuck in his beard. “Hate does no one any good,” he shrugged. “Sometimes killing has to be done, but do not do it with hate in your heart. It will eat at you, like maggots laid beneath the skin.” “But what they did,” Breca said. “Virk won, and then they killed him. It is not fair.” “No,” Thorkel agreed, “it is not. But Vigrið is not fair. All that can make the world fair is this.” Thorkel leaned forward in his chair and put a finger to Breca’s temple. “Your thought-cage. The choices you make. Choose to treat others fairly: you’ll sleep better for it.” ([Location 2095](https://readwise.io/to_kindle?action=open&asin=B08HLQL1B2&location=2095))
   - “For my son,” Uspa said, her shoulders slumping. “I am prepared to give up all I hold dear and important, all my fine principles, every great thing I have ever believed in, for my son.” Her lips twisted with self-loathing. “I am a hypocrite, you see. Because a mother’s love is a powerful thing. An instinct like no other. I would let the world drown in blood if it would mean my Bjarn was safe and back in my arms again.” She looked away. “You are wrong,” Elvar said. “It is kin who are a curse. You cannot choose them; they are inflicted upon you. They are the poison.” She waved a hand. “Grend is closer to me than my father or brothers, and he is faithful, loyal. Good. He chose to walk that path, chose me, as I chose him. And those choices are paid back ten-fold with faithfulness and loyalty. But Grend is not my kin; the same blood does not flow in our veins. It is our choices that count. Look about you, at Agnar, Biórr, Sólín, the Battle-Grim: they are closer kin. Better. I choose them, not because of the shared blood in our veins, but because we have chosen each other. Because we have sworn our oaths. We stand shoulder to shoulder in the shield wall, live or die together.” She realised her heart was thumping and her knuckles were white, fists clenched. A deep-drawn breath, slowly exhaled. “Our choices decide the future. Who we trust, who we love. And our choices will determine what comes of the treasures we find at Oskutreð. Kin are not the answer. Blood is not the answer.” Uspa looked at her with pity and sympathy in her eyes. She shook her head. “To be young and naive,” she said. “Blood is always the answer.” ([Location 5869](https://readwise.io/to_kindle?action=open&asin=B08HLQL1B2&location=5869))

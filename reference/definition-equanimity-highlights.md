@@ -1,21 +1,19 @@
 ---
 title: Definition of EQUANIMITY (highlights)
-status: reference
-source: roam-import-2026-05-31
-roam-uid: gpDuXyScO
 created: 2022-10-28
 modified: 2022-10-28
-tags: [imported, reference-note]
+roam-uid: gpDuXyScO
+source: roam-import-2026-05-31
 ---
 
-# Definition of EQUANIMITY (highlights)
-
-- Author:: #merriam-webster-com
+- Author::
 - Full Title:: Definition of EQUANIMITY
 - Category:: #articles
 - URL:: https://www.merriam-webster.com/dictionary/equanimity
-- Highlights first synced by #Readwise [[2022-10-28|October 28th, 2022]]
-  - Definition of equanimity 1: evenness of mind especially under stress - nothing could disturb his equanimity 2: right disposition: balance  - physical equanimity
+- Highlights first synced by #Readwise [[2022-10-28]]
+  - Definition of equanimity
+1: evenness of mind especially under stress - nothing could disturb his equanimity
+2: right disposition: balance - physical equanimity
   - equanimity, composure, sangfroid mean evenness of mind under stress.
     - equanimity suggests a habit of mind that is only rarely disturbed under great strain. -
       - accepted her troubles with equanimity

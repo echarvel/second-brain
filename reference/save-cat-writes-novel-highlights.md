@@ -1,20 +1,16 @@
 ---
 title: "Save the Cat! Writes a Novel (highlights)"
-status: reference
-source: roam-import-2026-05-31
-roam-uid: h5FrRit6X
 created: 2024-01-19
 modified: 2024-01-19
-tags: [imported, reference-note]
+roam-uid: h5FrRit6X
+source: roam-import-2026-05-31
 ---
 
-# Save the Cat! Writes a Novel (highlights)
-
-- Author:: #jessica-brody
+- Author::
 - Full Title:: Save the Cat! Writes a Novel
 - Category:: #books
 - ![](https://images-na.ssl-images-amazon.com/images/I/41Sc1mtNTjL._SL200_.jpg)
-- Highlights first synced by #Readwise [[January 18th, 2024]]
+- Highlights first synced by #Readwise
   - And that brings us to a great tip for writing flawed heroes: Don’t let the problem stay contained to just one area of your hero’s life. Let the problem(s) manifest and spread and infect! Your hero’s problem(s) should be affecting their entire world: their work, their home life, and their relationships. ([Location 235](https://readwise.io/to_kindle?action=open&asin=B078VWDNKT&location=235))
   - The most effective character goals or wants are concrete and tangible. ([Location 259](https://readwise.io/to_kindle?action=open&asin=B078VWDNKT&location=259))
   - Because in the end, the want is only half the story. Heroes aren’t complete until they also have a need. ([Location 287](https://readwise.io/to_kindle?action=open&asin=B078VWDNKT&location=287))

@@ -1,14 +1,10 @@
 ---
 title: Q1 - 2024 - Quarterly Goals
-status: structure
-source: roam-import-2026-05-31
-roam-uid: ZlXwXSqI8
 created: 2023-01-03
 modified: 2024-02-26
-tags: [imported, structure-doc]
+roam-uid: ZlXwXSqI8
+source: roam-import-2026-05-31
 ---
-
-# Q1 - 2024 - Quarterly Goals
 
 - Write 10 chapters of novel
 - Write 3 short stories
